@@ -1,0 +1,20 @@
+Rutas de stock
+
+stock/view (Ver todo el listado)
+stock/add (Agregar registros)
+stock/edit (Editar registro)
+stock/delete (Boton de eliminar) PHP
+stock/save (Guardar registro) PHP
+
+Rutas de facturacion
+
+facturacion/view (Ver todo el listado)
+facturacion/add (Agregar registros)
+facturacion/edit (Editar registro)
+facturacion/delete (Boton de eliminar) PHP
+facturacion/save (Guardar registro) PHP
+
+
+Table
+Cod. Prod - Detalle - Precio x unidad - Cantidad - IVA - Precio Total
+0123123     Zapatilla    1230             2        210            
